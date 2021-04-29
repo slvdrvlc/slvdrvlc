@@ -2,16 +2,17 @@
 
 ## Salvador Vilca - @slvdrvlc
 
-Hi I'm Salvador - Frontend Developer specialized in creating user-facing features using React.js. Creator and maintainer of several JavaScript libraries and open-source contributor.
+Hi I'm Salvador - Systems engineering student, carrying out a gamification project for the degree.
 
+<!--
 ## 🚀 Some of my projects
-
 - [git course](https://github.com/slvdrvlc/git-course)
+-->
 
 ## 📜 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [git course](https://github.com/slvdrvlc/git-course)
+- [git course](https://slvdrvlc.wordpress.com)
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -26,5 +27,5 @@ Hi I'm Salvador - Frontend Developer specialized in creating user-facing feature
 ## ☕ Buy me a coffee
 <a href="https://www.buymeacoffee.com/slvdrvlc" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
           *
-[![Patreon Badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dadrinlol%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/slvdrvlc)
+[![Patreon Badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dslvdrvlc%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/slvdrvlc)
 -->
