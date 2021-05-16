@@ -2,7 +2,7 @@
 
 ## Salvador Vilca - @slvdrvlc
 
-Hi I'm Salvador - Systems engineering student, carrying out a gamification project for the degree.
+Hi I'm Salvador - Systems engineer, carrying out a gamification project for the degree.
 
 <!--
 ## 🚀 Some of my projects
