@@ -1,6 +1,11 @@
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slvdrvlc&hide_border=true&langs_count=3&theme=dracula" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=slvdrvlc&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=dracula" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slvdrvlc&langs_count=3&hide_title=true&hide_border=true&theme=dracula" />
+</a>
+
 
 ## Salvador Vilca - @slvdrvlc
 
