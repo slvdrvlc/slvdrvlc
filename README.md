@@ -1,8 +1,11 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=slvdrvlc&show_icons=true&theme=dracula">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slvdrvlc&hide_border=true&langs_count=3&theme=dracula" /> 
+</a>
 
 ## Salvador Vilca - @slvdrvlc
 
 Hi I'm Salvador - Systems engineer, carrying out a gamification project for the degree.
+
 
 <!--
 ## 🚀 Some of my projects
@@ -29,3 +32,6 @@ Hi I'm Salvador - Systems engineer, carrying out a gamification project for the 
           *
 [![Patreon Badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dslvdrvlc%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/slvdrvlc)
 -->
+
+
+
